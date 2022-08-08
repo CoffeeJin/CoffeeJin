@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CoffeeJin
-- 👀 I’m interested in Video Games
+- 👀 I’m interested in Rugby & Cooking & Video Games
 - 🌱 I’m currently learning SE in the University of Sydney
 - 💞️ I’m looking to collaborate on career to software engineer
-- 📫 How to reach me jinyang2937@gmail.com
+- 📫 How to reach me: jinyang2937@gmail.com
 - :muscle: 2/8/2022
 
 <!---
