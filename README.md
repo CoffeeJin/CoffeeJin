@@ -7,6 +7,7 @@
 - :man_student: Graduated from USYD in 2024  
 - :computer: Currently working as System Engineer  
 - 📫 Contact me: <jinyang2937@gmail.com>
+- :link: Linkedin url: <www.linkedin.com/in/jyan2937>
 
 <h2>Top 10 goals fro 2025</h2>
 
